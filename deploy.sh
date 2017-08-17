@@ -1,0 +1,3 @@
+hexo generate
+
+hexo deploy

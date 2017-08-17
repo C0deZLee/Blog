@@ -9,5 +9,5 @@ comments: false
 Hello everyone, welcome to my blog.
 I'm currently a senior undergraduate student studying in PennState ( WE ARE! ).
 Besides that, I'm a web developer with 5+ years experience.
-Generally I'll share some tech articles, but you also will find some 
+Most articles in my blog are tech related, but you can also find something interesting.
 </center>
